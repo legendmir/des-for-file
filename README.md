@@ -1,2 +1,2 @@
 # des-for-file
-fast des algorithm for file encoding
+fast des for file encoding
